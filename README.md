@@ -1,7 +1,7 @@
 # DQE_cicd_homework
 Workflow:
 1. Main = development branch
-2. All features developed within feature1/nradionenko
+2. All features developed within features
 
 Whenever main branch is merged, build is triggered in Jenkins and python tests are executed.
 
